@@ -1,6 +1,6 @@
 public static boolean esPrimo(int n)
 {
-    double i=2;
+    int i=2;
     if (n<1) {
         return false;
     }
